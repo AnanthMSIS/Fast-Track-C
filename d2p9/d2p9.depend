@@ -1,0 +1,12 @@
+# depslib dependency file v1.0
+1663128198 source:d:\codeblock\d2p9\d2p9_op.c
+	<stdio.h>
+	"d2p9.h"
+
+1663128198 d:\codeblock\d2p9\d2p9.h
+
+1663128266 source:d:\codeblock\d2p9\main.c
+	<stdio.h>
+	<stdlib.h>
+	"d2p9.h"
+

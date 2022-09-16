@@ -1,0 +1,13 @@
+# depslib dependency file v1.0
+1663281231 source:d:\codeblock\d3p1\main.c
+	<stdio.h>
+	<stdlib.h>
+	<assert.h>
+	"d3p1.h"
+
+1663281108 source:d:\codeblock\d3p1\d3p1_op.c
+	<stdio.h>
+	"d3p1.h"
+
+1663281118 d:\codeblock\d3p1\d3p1.h
+

@@ -1,0 +1,12 @@
+# depslib dependency file v1.0
+1663201911 source:d:\codeblock\d3p4\d3p4_op.c
+	<stdio.h>
+	"d3p4.h"
+
+1663201911 d:\codeblock\d3p4\d3p4.h
+
+1663202020 source:d:\codeblock\d3p4\main.c
+	<stdio.h>
+	<stdlib.h>
+	"d3p4.h"
+

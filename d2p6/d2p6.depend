@@ -1,0 +1,12 @@
+# depslib dependency file v1.0
+1663045102 source:d:\codeblock\d2p6\main.c
+	<stdio.h>
+	<stdlib.h>
+	"d2p6.h"
+
+1663044930 source:d:\codeblock\d2p6\d2p6_op.c
+	<stdio.h>
+	"d2p6.h"
+
+1663044800 d:\codeblock\d2p6\d2p6.h
+

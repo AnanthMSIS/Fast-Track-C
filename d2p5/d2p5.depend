@@ -1,0 +1,10 @@
+# depslib dependency file v1.0
+1663043900 source:d:\codeblock\d2p5\main.c
+	"d2p5.h"
+
+1663041677 d:\codeblock\d2p5\d2p5.h
+
+1663043719 source:d:\codeblock\d2p5\d2p5_op.c
+	<stdio.h>
+	"d2p5.h"
+

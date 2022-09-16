@@ -1,0 +1,11 @@
+# depslib dependency file v1.0
+1663126154 source:d:\codeblock\d2p8\d2p8_op.c
+	<stdio.h>
+	"d2p8.h"
+
+1663125901 d:\codeblock\d2p8\d2p8.h
+
+1663126241 source:d:\codeblock\d2p8\main.c
+	<assert.h>
+	"d2p8.h"
+
