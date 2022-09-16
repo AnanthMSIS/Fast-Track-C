@@ -1,0 +1,10 @@
+# depslib dependency file v1.0
+1663289412 source:d:\codeblock\d3p8\d3p8_op.c
+
+1663289441 source:d:\codeblock\d3p8\main.c
+	<stdio.h>
+	<stdlib.h>
+	"d3p8.h"
+
+1663289412 d:\codeblock\d3p8\d3p8.h
+

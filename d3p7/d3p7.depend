@@ -1,0 +1,11 @@
+# depslib dependency file v1.0
+1663287802 source:d:\codeblock\d3p7\main.c
+	<stdio.h>
+	<stdlib.h>
+	"d3p7.h"
+
+1663287834 source:d:\codeblock\d3p7\d3p7_op.c
+	"d3p7.h"
+
+1663287552 d:\codeblock\d3p7\d3p7.h
+
