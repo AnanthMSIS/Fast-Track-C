@@ -1,0 +1,10 @@
+# depslib dependency file v1.0
+1662898938 source:d:\fast track c\d1p1\main.c
+	<assert.h>
+	"d1p1.h"
+
+1662898885 d:\fast track c\d1p1\d1p1.h
+
+1662898905 source:d:\fast track c\d1p1\d1p1_op.c
+	"d1p1.h"
+

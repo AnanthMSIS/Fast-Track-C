@@ -1,0 +1,10 @@
+# depslib dependency file v1.0
+1663003002 source:d:\fast track c\d2p4\d2p4_op.c
+	"d2p4.h"
+
+1663003002 d:\fast track c\d2p4\d2p4.h
+
+1663003143 source:d:\fast track c\d2p4\main.c
+	<assert.h>
+	"d2p4.h"
+
