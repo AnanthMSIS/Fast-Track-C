@@ -1,0 +1,13 @@
+# depslib dependency file v1.0
+1663400418 source:d:\fast track c\d3p10\main.c
+	<stdio.h>
+	<stdlib.h>
+	<math.h>
+	"d3p10.h"
+
+1663400418 d:\fast track c\d3p10\d3p10.h
+
+1663400534 source:d:\fast track c\d3p10\d3p10_op.c
+	"d3p10.h"
+	<stdio.h>
+
