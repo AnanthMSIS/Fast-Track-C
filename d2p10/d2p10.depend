@@ -1,0 +1,12 @@
+# depslib dependency file v1.0
+1663161750 source:d:\fast track c\d2p10\main.c
+	<stdio.h>
+	<stdlib.h>
+	"d2p10.h"
+
+1663160906 source:d:\fast track c\d2p10\d2p10_op.c
+	<stdio.h>
+	"d2p10.h"
+
+1663160875 d:\fast track c\d2p10\d2p10.h
+
