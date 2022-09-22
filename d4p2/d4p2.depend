@@ -1,0 +1,11 @@
+# depslib dependency file v1.0
+1663851284 source:d:\fast track c\d4p2\d4p2_op.c
+	"d4p2.h"
+
+1663851252 d:\fast track c\d4p2\d4p2.h
+
+1663851286 source:d:\fast track c\d4p2\main.c
+	<stdio.h>
+	<stdlib.h>
+	"d4p2.h"
+
