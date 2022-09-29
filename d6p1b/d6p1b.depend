@@ -1,0 +1,10 @@
+# depslib dependency file v1.0
+1664459040 source:d:\fast track c\d6p1b\d6p1b_op.c
+	<stdio.h>
+	"d6p1b.h"
+
+1664459169 source:d:\fast track c\d6p1b\main.c
+	"d6p1b.h"
+
+1664458914 d:\fast track c\d6p1b\d6p1b.h
+
